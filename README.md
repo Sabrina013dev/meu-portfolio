@@ -22,10 +22,6 @@ Você pode visualizar o site baixando o arquivo em zip e depois use algum editor
 - **AOS (Animate on Scroll):** Para as animações ao rolar a página.
 - **Bootstrap Icons:** Ícones prontos para uso, para uma interface mais rica.
 
-## 📦 Instalação
-
-Não é necessário instalar nada além de um editor de texto e um navegador para testar. Você pode modificar o conteúdo diretamente nos arquivos HTML e CSS.
-
 ## 🛠 Melhorias Futuras
 
 Planejo melhorar e atualizar o template com novos recursos e seções. Algumas das ideias para futuras versões incluem:
