@@ -472,7 +472,7 @@ a {
 }
 
 .textos-sobre h1 {
-    font-size: 3rem;
+    font-size: 2rem;
     font-family: var(--font-grande);
 }
 
@@ -677,7 +677,7 @@ a {
 .titulo-servicos h1 {
     color: var(--color-black);
     width: 50%;
-    font-size: 8vw;
+    font-size: 2em;
     font-weight: lighter;
     font-family: var(--font-grande);
 }
