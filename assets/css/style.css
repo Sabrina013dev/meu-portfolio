@@ -1194,4 +1194,5 @@ a,button.btn{
 a,button.btn:hover{
     background-color: transparent;
     color: #fff;
+    border-color: #e7fc00;
 }
