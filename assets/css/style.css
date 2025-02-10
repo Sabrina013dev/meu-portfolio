@@ -1182,3 +1182,17 @@ a {
 .credits-column p {
     margin: 0.2rem 0;
 }
+btn{
+    margin: auto;
+    width: 130px;
+    padding: 10px 5px;
+    border-radius: 15px;
+    background-color: #e7fc00;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.btn:hover{
+    background-color: transparent;
+    color: #fff;
+    border-color: #e7fc00;
+}
