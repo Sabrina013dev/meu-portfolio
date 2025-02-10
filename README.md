@@ -35,7 +35,6 @@ Planejo melhorar e atualizar o template com novos recursos e seções. Algumas d
 - Suporte a múltiplos temas (dark mode, light mode);
 - Adição de futuros projetos;
 - Edição de texto;
-- Aprimoramento do CSS com Sass;
 - Talvez adição de mais uma seção.
 
 ## Contatos
