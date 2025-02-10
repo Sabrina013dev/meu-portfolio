@@ -39,6 +39,6 @@ Planejo melhorar e atualizar o template com novos recursos e seções. Algumas d
 
 ## Contatos
 
-**E-mail** [Sabrina Oliveira] (sabrinaoliveira.programadora@gmail.com)
+**E-mail** (sabrinaoliveira.programadora@gmail.com)
 
 **WhastsApp** (https://wa.me/5512992432116)
