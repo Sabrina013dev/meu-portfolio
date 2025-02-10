@@ -1182,7 +1182,7 @@ a {
 .credits-column p {
     margin: 0.2rem 0;
 }
-a,.btn{
+a,button.btn{
     width: 130px;
     padding: 10px 5px;
     border-radius: 15px;
@@ -1191,7 +1191,7 @@ a,.btn{
     font-weight: bold;
     margin: auto;
 }
-.btn:hover{
+a,button.btn:hover{
     background-color: transparent;
     color: #fff;
 }
