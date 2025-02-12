@@ -1182,7 +1182,7 @@ a {
 .credits-column p {
     margin: 0.2rem 0;
 }
-.link-folio,button.btn{
+.link-folio,button.btn-portfolio{
     width: 130px;
     padding: 10px 5px;
     border-radius: 15px;
@@ -1191,7 +1191,7 @@ a {
     font-weight: bold;
     margin: auto;
 }
-.link-folio,button.btn:hover{
+.link-folio,button.btn-portfolio:hover{
     background-color: transparent;
     color: #fff;
     border-color: #e7fc00;
